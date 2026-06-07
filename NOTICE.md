@@ -1,6 +1,6 @@
 # Notices
 
-MessageBridge is an independent open-source project.
+MessageBridge by Bacaloo is an independent open-source project.
 
 This repository may contain adapter code that communicates with third-party
 business messaging APIs. Those APIs, service names, trademarks, logos, account
@@ -18,4 +18,3 @@ comply with:
 - account, phone number, and business-verification requirements
 
 No provider trademark or logo is licensed by this repository.
-

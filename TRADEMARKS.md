@@ -1,6 +1,7 @@
 # Trademark Policy
 
-This project uses a neutral name: MessageBridge.
+This project uses a neutral provider-independent product name: MessageBridge by
+Bacaloo.
 
 ## Allowed Descriptive Use
 
@@ -30,7 +31,7 @@ Do not:
 Public documentation that mentions a third-party provider should include a
 clear disclaimer such as:
 
-> MessageBridge is an independent project and is not affiliated with, endorsed
-> by, sponsored by, or operated by any messaging platform provider. Third-party
-> names and trademarks are the property of their respective owners.
-
+> MessageBridge by Bacaloo is an independent project and is not affiliated
+> with, endorsed by, sponsored by, or operated by any messaging platform
+> provider. Third-party names and trademarks are the property of their
+> respective owners.

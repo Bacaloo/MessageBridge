@@ -1,7 +1,7 @@
 # Programming Rules
 
-MessageBridge is intended to be publishable. Treat every change as if it may
-later become public.
+MessageBridge by Bacaloo is intended to be publishable. Treat every change as
+if it may later become public.
 
 ## Core Rules
 
@@ -34,4 +34,3 @@ later become public.
   icons, or primary UI branding.
 - Public documentation must include the independent-project disclaimer when it
   mentions a provider.
-

@@ -1,6 +1,12 @@
-# MessageBridge
+# MessageBridge by Bacaloo
 
-MessageBridge is a neutral integration bridge for business messaging platforms.
+MessageBridge by Bacaloo is a neutral integration bridge for business messaging
+platforms.
+
+```text
+MessageBridge by Bacaloo
+Business messaging with Nextcloud audit context.
+```
 
 The project name is intentionally platform-neutral. It must not imply that this
 project is owned, endorsed, sponsored, certified, or operated by any messaging
@@ -8,8 +14,8 @@ platform provider.
 
 ## License
 
-MessageBridge is licensed under the GNU Affero General Public License v3.0.
-See [LICENSE](LICENSE).
+MessageBridge is licensed under the GNU Affero General Public License v3.0. See
+[LICENSE](LICENSE).
 
 The license applies to this project's own source code. It does not grant any
 rights to third-party names, trademarks, logos, service marks, APIs, platform
@@ -61,4 +67,3 @@ outside a customer-service window.
 - Keep public wording neutral: "supports", "integrates with", or "adapter for"
   is acceptable; "official", "certified", "by", or "endorsed by" is not unless
   there is written authorization.
-

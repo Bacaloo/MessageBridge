@@ -4,9 +4,9 @@ These rules are binding for all future code changes in this repository.
 
 ## Repository Purpose
 
-- MessageBridge is a neutral business messaging integration bridge.
+- MessageBridge by Bacaloo is a neutral business messaging integration bridge.
 - The repository name, package names, namespaces, app identifiers, icons, and
-  UI branding must stay neutral.
+  UI branding must stay neutral and provider-independent.
 - Provider names may be used only in descriptive documentation, configuration
   labels, or provider adapter names where technically necessary.
 
@@ -69,4 +69,3 @@ These rules are binding for all future code changes in this repository.
 - Validate inbound HTTP payloads before processing.
 - Do not silently drop provider errors; record them as status or audit events.
 - Preserve message state transitions carefully.
-
